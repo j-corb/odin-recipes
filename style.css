@@ -1,0 +1,25 @@
+img {
+    height: auto;
+    width: auto;
+}
+
+a {
+    color: green;
+    background-color: blanchedalmond;
+}
+
+li {
+    color: purple;
+    text-align:left;
+    background-color: yellow;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color: rgba(17, 71, 219, 0.733);
+    background-color: rgb(253, 188, 239)
+}
